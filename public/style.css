@@ -20,7 +20,6 @@ body {
 }
 
 .avatar {
-    /* grid-area: main; */
     border: solid #994b10 6px;
     border-radius: 5px;
     border-style: groove;
